@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500');
+body{
+  position: relative;
+   font-family: 'Montserrat', sans-serif;
+   margin:0;
+   padding:0;
+}
+
+.loginbox{
+	display: block;
+  width: 100%;
+  height: 100%;
+  background-image: url(../bemyapp.png);
+}
+
+.loginbox form{
+
+  padding:60px;
+  padding-top: 200px;
+}
+/*h1{
+ 
+  text-align: center;
+}*/
+.my-input{
+     padding: 25px;
+    border: 1px solid #4BE3CF;
+    border-radius: 50px;
+    width: 100%;
+    height: 30px;
+    box-shadow: 1px 1px 2px #C0C0C0 inset;
+    text-align: center;
+    font-size: 13pt;
+    background-color: #7070700a;
+}
+.formcontrol{
+ width:100%;
+ height: 60px; 
+
+}
+.button-success{
+border-radius:5px;
+display:block;
+width:100%;
+margin-top: 30px;
+margin: auto;
+height: 60px;
+line-height:20px;
+text-align:center;
+vertical-align:middle;
+color:white;
+border-radius: 50px;
+background-color: #4BE3CF;
+text-decoration:none;
+font-size: 13pt;
+
+}
+#naccount
+{
+  text-align:center;
+}
+
+   
+
+.full-width {
+  width:100%;
+}
